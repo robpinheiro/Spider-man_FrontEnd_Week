@@ -373,6 +373,7 @@ header {
   content: '';
   display: block;
   position: absolute;
+  z-index: -1;
   left: 50%;
   top: -40px;
   width: 2px;
